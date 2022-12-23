@@ -8,6 +8,9 @@
     color: darkgray;
     padding-left: 15%;
 }
+.search:focus {
+    background-color: red
+}
 
 
 
